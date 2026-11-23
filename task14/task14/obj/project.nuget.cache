@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwpVTvfpwVo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\task14\\task14\\task14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.web.webview2\\1.0.4370.26\\microsoft.web.webview2.1.0.4370.26.nupkg.sha512"
+  ],
+  "logs": []
+}

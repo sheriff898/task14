@@ -1,0 +1,42 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Microsoft.Web.WebView2/1.0.4370.26": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.4370.26",
+            "localPath": "runtimes/win-arm64/native/WebView2Loader.dll"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.4370.26",
+            "localPath": "runtimes/win-x64/native/WebView2Loader.dll"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.4370.26",
+            "localPath": "runtimes/win-x86/native/WebView2Loader.dll"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Web.WebView2/1.0.4370.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fCmdjhw8Gg+cbvEkyF+ygObcByFk35WVxTUmLkjSwjhDuLg4V9P7EVPn3rj3g9M2I3WHes/efHS2tIpGX/NCEA==",
+      "path": "microsoft.web.webview2/1.0.4370.26",
+      "hashPath": "microsoft.web.webview2.1.0.4370.26.nupkg.sha512"
+    }
+  }
+}
